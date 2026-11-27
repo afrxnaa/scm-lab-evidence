@@ -1,2 +1,2 @@
-Deployment target: TBD
+Deployment target: staging
 
